@@ -4,7 +4,7 @@
 
 ![Example ILDA frames: rotating squares](anim.gif)
 
-A Cinema 4D **command plugin** that exports **spline animations** to the **ILDA Image
+A Cinema 4D **command plugin** that exports animations to the **ILDA Image
 Data Transfer Format** (`.ild`) for laser projection. One animation frame → one ILDA
 frame. Pure Python, no build step, no third-party dependencies. Runs on R21 (Python 2.7)
 through 2025 (Python 3).
